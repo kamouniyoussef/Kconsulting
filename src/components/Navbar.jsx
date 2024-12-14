@@ -204,8 +204,7 @@ const Navbar = () => {
                             maxWidth: '100%', 
                             objectFit: 'contain',
                         }} 
-      onClick={() => window.location.href = 'https://kamouniyoussef.github.io/K-Consulting/'}
-
+ 
                     />
                 </Typography>
                 <Box sx={{ display: { xs: 'none', md: 'block' } }}>
