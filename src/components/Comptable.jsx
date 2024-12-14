@@ -22,7 +22,7 @@ const Comptable = () => {
           backgroundPosition: 'center',
         }}
       >
-          <h2 className='text-5xl font-bold'>{service.name}</h2>
+          <h6 className='text-2xl font-bold'>{service.name}</h6>
           <p className='font-sans from-indigo-900'>{service.description}</p>
       </div>
 
@@ -32,7 +32,7 @@ const Comptable = () => {
           <img
             src={img1}
             alt={service.name}
-            className="img-fluid rounded-4 common-image"
+            className="img-fluid rounded-2 common-image"
             style={{ width: '100%', height: '300px', objectFit: 'cover' }}
           />
         </div>

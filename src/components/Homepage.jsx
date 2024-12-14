@@ -59,9 +59,9 @@ const Homepage = () => {
     
   ];
    return (
-    <div style={{ padding: '40px' }}>
-      <Typography className="font-bold text-4xl" variant="h4" component="h1" style={{ textAlign: 'center', marginBottom: '60px' }}>
-      <span style={{ fontFamily:"cursive"}}>  Nos Services</span>  <p className='text-danger py-5' style={{fontFamily:'cursive'}}> Plus de 5 ans d'experience </p>
+    <div >
+      <Typography className="font-bold text-4xl" variant="h4" component="h1" style={{ textAlign: 'center' }}>
+      <span style={{ fontFamily:"cursive"}}>  Nos Services</span>  <p className='text-danger ' style={{fontFamily:'cursive',fontSize:"20px"}} > Plus de 5 ans d'experience </p>
       </Typography>
       {/* Services */}
       <div className="flex flex-wrap justify-center gap-10">

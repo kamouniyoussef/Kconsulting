@@ -23,7 +23,7 @@ const Conseil = () => {
           backgroundPosition: 'center',
         }}
       >
-          <h2 className='text-5xl font-bold'>{service.name}</h2>
+          <h2 className='text-2xl font-bold'>{service.name}</h2>
           <p className='font-sans from-indigo-900'>{service.description}</p>
       </div>
 

@@ -21,9 +21,9 @@ import { Carousel } from "@material-tailwind/react";
 
 export default function Gallery() {
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen bg-background p-4 mb-32">
+    <div className="flex flex-col justify-center items-center min-h-screen bg-background p-4 mb-10  ">
       <div className="w-full max-w-5xl text-center mb-8">
-        <Typography variant="h1" className="text-5xl font-bold text-[#004164] mb-2">Créez Votre Entreprise Maintenant</Typography>
+        <Typography variant="h1" className="text-3xl font-bold text-[#004164] mb-6 ">Créez Votre Entreprise Maintenant</Typography>
         <p className="text-lg text-muted-foreground">Nos Services couvrent l'ensemble des besoins d'accompagnement d'une société dans le domaine de sa gestion et de son administration</p>
       </div>
       <div className="w-full max-w-5xl">

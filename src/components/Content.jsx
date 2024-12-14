@@ -20,13 +20,13 @@ import Paragraph from './Paragraph'
 const Content = () => {
   return (
     <div className="relative overflow-hidden bg-gradient-to-b from-gray-50 to-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-24 lg:py-32">
+      <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-4 py-10 sm:py-24 lg:py-16">
         <div className="lg:grid lg:grid-cols-12 lg:gap-8">
           <div className="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left">
             <h1 className="text-4xl font-extrabold text-[#004164] sm:text-5xl md:text-6xl">
               <span className="block xl:inline">KAMOUNI CONSULTING </span>
             </h1>
-            <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
+            <p className="mt-3 text-base text-gray-600 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
             KAMOUNI CONSULTING est un cabinet d'Expertise Comptable, de Conseil Fiscal, Financier, Juridique et de Commissariat aux comptes.
             </p>
             <div className="mt-8 sm:mt-10">
