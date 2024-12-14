@@ -204,7 +204,7 @@ const Navbar = () => {
                             maxWidth: '100%', 
                             objectFit: 'contain',
                         }} 
-                        onClick={() => window.location.href = '/'}
+                     
                     />
                 </Typography>
                 <Box sx={{ display: { xs: 'none', md: 'block' } }}>
