@@ -204,7 +204,12 @@ const Navbar = () => {
                             maxWidth: '100%', 
                             objectFit: 'contain',
                         }} 
+<<<<<<< HEAD
                      />
+=======
+ 
+                    />
+>>>>>>> 1cf47b43420e1b1b79760b299eee28c46bd8fe29
                 </Typography>
                 <Box sx={{ display: { xs: 'none', md: 'block' } }}>
                     <ListMenu>
