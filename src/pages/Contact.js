@@ -98,7 +98,7 @@ const Contact = () => {
               <h3 className="mb-4 text-center " style={{ color: '#007bff' , fontFamily:"cursive"}}>APPELEZ-NOUS</h3>
               <div className="text-center text-dark mb-4">
                  
-                <p style={{ fontFamily:"cursive"}}>+212 65965923</p>
+                <p style={{ fontFamily:"cursive"}}>+212 641812625</p>
               </div>
 
               {/* Contact Form */}

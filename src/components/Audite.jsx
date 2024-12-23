@@ -42,9 +42,10 @@ const Audite = () => {
         {/* Some Text */}
         <div className="col-md-6 px-9">
           <div className="list-section">
-            <h3 className="text-light-blue-900 fs-4">Audit légal & Commissariat aux comptes</h3>
+            <h3 className="text-light-blue-900 fs-4">L'audit contractuel  financier
+            </h3>
             <ul className="list-unstyled ms-1">
-              <li>• Révision annuel des comptes et production d'un rapport général de certification</li>
+              <li>• Révision annuel des comptes et production d'un rapport général  </li>
               <li>• Missions et rapports spécifiques dans le cadre d'opérations particulières : augmentation de capital, transformation, apports en nature ... </li>
             </ul>
           </div>
@@ -60,8 +61,7 @@ const Audite = () => {
               <li>• Audit des comptes de votre société dans le cadre d'un rachat</li>
               <li>• Evaluation de votre société</li>
               <li>• Assistance dans le cadre de montages financiers particuliers</li>
-              <li>• Expertise en cas de litige, ....</li>
-            </ul>
+             </ul>
           </div>
         </div>
 

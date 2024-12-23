@@ -91,7 +91,7 @@ KAMOUNI CONSULTING                </Typography>
                         marginRight: { xs: 'auto', md: 0 }, // Push text to the left on medium and larger screens
                     }}
                 >
-                   KAMOUNI CONSULTING est un cabinet d’ingénierie financière, comptable, fiscale, d’expertise Comptable et de Commissariat aux Comptes qui fournit des prestations pluridisciplinaires de conseil en gestion, d’organisation de structures, d’audit institutionnel et financier, de mise en place de système informatisé de gestion, dans divers secteurs d’activités économiques.
+                   KAMOUNI CONSULTING est un cabinet d’ingénierie financière, comptable, fiscale, d’expertise Comptable  qui fournit des prestations pluridisciplinaires de conseil en gestion, d’organisation de structures, d’audit institutionnel et financier, de mise en place de système informatisé de gestion, dans divers secteurs d’activités économiques.
                 </Typography>
 
                 <Button

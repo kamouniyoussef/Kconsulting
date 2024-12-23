@@ -31,7 +31,7 @@ const Content = () => {
             </p>
             <div className="mt-8 sm:mt-10">
             <a
-              href="/"
+              href="#"
               className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-[#004164] hover:bg-[#05547e] transition duration-150 ease-in-out no-underline"
               style={{ textDecoration: 'none' }}
             >
